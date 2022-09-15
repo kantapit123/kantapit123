@@ -9,7 +9,8 @@ I am a computer engineering and Co-Founder at [Thaibioscience Co.,Ltd](https://d
 
 languages and tools:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="logo1" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415050-fb8ad1a2-4a8c-463c-b404-6bd629021d3a.png" alt="logo2" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415436-25f7cab2-b9da-437a-a06b-6202021c2f6b.png" alt="logo3" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415459-0b2ea23d-0774-4bec-941c-a333199cc63e.png" alt="logo4" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415480-a8e69325-7f2c-486a-ac3e-044b252a99e1.png" alt="logo5" width="30"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415050-fb8ad1a2-4a8c-463c-b404-6bd629021d3a.png" alt="sql" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415436-25f7cab2-b9da-437a-a06b-6202021c2f6b.png" alt="react" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190416453-8869c0fc-2220-4e10-bb08-03239cfc412c.png" alt="nodeJs" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415480-a8e69325-7f2c-486a-ac3e-044b252a99e1.png" alt="JS" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190416644-594038e8-63c1-4a79-89c7-1f9d5e149e29.png" alt="golang" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190416710-1f5fd8f4-7a55-4a56-a9cc-7be0222655f6.png" alt="java" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190416926-94c2303c-43f6-41e8-86e4-e4deb780c879.png" alt="C" width="30"/>
+
 
 
 <!--
