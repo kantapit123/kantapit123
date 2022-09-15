@@ -16,7 +16,9 @@ I am a computer engineering and Co-Founder at [Thaibioscience Co.,Ltd](https://d
 ![visitors](https://komarev.com/ghpvc/?username=kantapit123&color=brightgreen)
 
 ### 📫 Reach me at
-[<img src="https://user-images.githubusercontent.com/46065565/190419854-16e561a6-f8c8-4000-bded-c70d94e1f10f.png" alt="fb" width="40"/>](https://www.facebook.com/pitchty/) [<img src="https://user-images.githubusercontent.com/46065565/190420288-21089596-ca6d-44c4-89fd-3738c54c7515.png" alt="ig" width="40"/>](https://www.instagram.com/pitch.kantapit/)
+[<img src="https://user-images.githubusercontent.com/46065565/190419854-16e561a6-f8c8-4000-bded-c70d94e1f10f.png" alt="fb" width="40"/>](https://www.facebook.com/pitchty/) [<img src="https://user-images.githubusercontent.com/46065565/190420288-21089596-ca6d-44c4-89fd-3738c54c7515.png" alt="ig" width="40"/>](https://www.instagram.com/pitch.kantapit/) [<img src="https://user-images.githubusercontent.com/46065565/190420786-774b74e0-32c4-4312-b869-5b33cceb1f54.png" alt="gmail" width="40"/>](kantapit9@gmail.com) [<img src="https://user-images.githubusercontent.com/46065565/190420922-a0819218-7957-43bf-8ee0-67c61914ccce.png" alt="linkedin" width="40"/>]()
+
+
 
 
 <!--
