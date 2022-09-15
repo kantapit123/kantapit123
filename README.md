@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-![](https://komarev.com/ghpvc/?username=kantapit123)
+
 
 ![image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
@@ -12,8 +12,11 @@ I am a computer engineering and Co-Founder at [Thaibioscience Co.,Ltd](https://d
 ---
 #### languages and tools 💻:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415050-fb8ad1a2-4a8c-463c-b404-6bd629021d3a.png" alt="sql" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415436-25f7cab2-b9da-437a-a06b-6202021c2f6b.png" alt="react" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190416453-8869c0fc-2220-4e10-bb08-03239cfc412c.png" alt="nodeJs" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190415480-a8e69325-7f2c-486a-ac3e-044b252a99e1.png" alt="JS" width="30"/> <img src="https://user-images.githubusercontent.com/46065565/190416644-594038e8-63c1-4a79-89c7-1f9d5e149e29.png" alt="golang" width="60"/> <img src="https://user-images.githubusercontent.com/46065565/190416710-1f5fd8f4-7a55-4a56-a9cc-7be0222655f6.png" alt="java" width="60"/> <img src="https://user-images.githubusercontent.com/46065565/190417427-e95cc01c-5429-405b-b6cb-1dc195797c09.png" alt="C" width="30"/>
+---
+![visitors](https://komarev.com/ghpvc/?username=kantapit123&color=brightgreen)
 
-
+### 📫 Reach me at
+[<img src="https://user-images.githubusercontent.com/46065565/190419854-16e561a6-f8c8-4000-bded-c70d94e1f10f.png" alt="fb" width="40"/>](https://www.facebook.com/pitchty/)
 
 
 <!--
