@@ -10,6 +10,9 @@ I am a computer engineering and Co-Founder at [Thaibioscience Co.,Ltd](https://d
 lanhuages and tools:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="logo" width="50"/>
+<img src="https://user-images.githubusercontent.com/46065565/190415050-fb8ad1a2-4a8c-463c-b404-6bd629021d3a.png" alt="logo" width="50"/>
+
+
 <!--
 **kantapit123/kantapit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
