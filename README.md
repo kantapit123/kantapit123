@@ -8,8 +8,8 @@ I am a computer engineering and Co-Founder at [Thaibioscience Co.,Ltd](https://d
 สวัสดีครับ ผม กันตพิชญ์ แพงดี หรือ พิชญ์ ตอนนี้กำลังศึกษาระดับปริญญาตรีในสาขาวิศวกรรมคอมพิวเตอร์ และเป็นผู้ร่วมก่อตั้ง [Thaibioscience Co.,Ltd](https://dna-center.thaibioscience.com/)  🥩  มีประสบการณ์ทำงานในบริษัท startup ของตัวเองในตำแหน่ง Chief technical officer (CTO) และ Graphic design เป็นคนที่ชอบและหลงไหลในการเขียนโปรแกรม👨‍💻 ชอบที่จะเรียนรู้สิ่งใหม่ๆ ชอบที่จะลองทำในสิ่งใหม่ๆเสมอและสิ่งที่หลงไหลไม่แพ้การเขียนโปรแกรมคืออวกาศ 🤖🚀
 
 lanhuages and tools:
-![logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="logo" width="200"/>
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="logo" width="20"/>
 <!--
 **kantapit123/kantapit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
