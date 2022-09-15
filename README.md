@@ -1,4 +1,4 @@
-### Hey there 👋
+## Hey there 👋
 
 Hi, I'm Kantapit Phaengdee you can call me Pitch 
 I am a computer engineering and Co-Founder at Thaibioscience Co.,Ltd 🥩 and have experience in working in my own startup as technical Lead and Graphic design. Interesed in coding👨‍💻 and love to learning a new thing. Fascinated about space. 🤖🚀
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+update my github profile
 -->
