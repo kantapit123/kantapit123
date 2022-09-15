@@ -1,7 +1,8 @@
 ## Hey there 👋
 
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="img" width="600"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="img" width="500"/>
+</p>
 
 Hi, I'm Kantapit Phaengdee you can call me Pitch 
 I am a computer engineering and Co-Founder at [Thaibioscience Co.,Ltd](https://dna-center.thaibioscience.com/) 🥩 and have experience in working in my own startup as technical Lead and Graphic design. Interesed in coding👨‍💻 and love to learning a new thing. Fascinated about space. 🤖🚀
