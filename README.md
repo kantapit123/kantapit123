@@ -1,5 +1,7 @@
 ## Hey there 👋
 
+![](https://komarev.com/ghpvc/?username=kantapit123)
+
 ![image](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 Hi, I'm Kantapit Phaengdee you can call me Pitch 
