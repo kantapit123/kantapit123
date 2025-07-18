@@ -64,6 +64,10 @@ I love building systems that solve real-world problems.
 - ClickHouse  
 - Metabase  
 
+<p>
+  <img src="https://skillicons.dev/icons?i=airflow,aws,gcp,kafka" />
+</p>
+
 **⚙️ DevOps Tools:**  
 - Kubernetes  
 - Docker  
@@ -74,6 +78,10 @@ I love building systems that solve real-world problems.
 - Trivy  
 - Kong  
 
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,jenkins" />
+</p>
+
 **🌐 Web Development Stack:**  
 - Golang  
 - React  
@@ -83,9 +91,17 @@ I love building systems that solve real-world problems.
 - SQL  
 - Tailwind CSS  
 
+<p>
+  <img src="https://skillicons.dev/icons?i=go,react,nodejs,js,ts,tailwind" />
+</p>
+
 **📱 Mobile Development Stack:**  
 - Flutter  
 - React Native  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
 
 **🧪 Testing Tools:**  
 - Playwright  
