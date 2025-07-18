@@ -65,7 +65,7 @@ I love building systems that solve real-world problems.
 - Metabase  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=airflow,aws,gcp,kafka" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kafka" />
 </p>
 
 **⚙️ DevOps Tools:**  
