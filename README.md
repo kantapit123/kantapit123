@@ -85,9 +85,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/kantapit123/TypingLab">
-        <img src="./profile/pin-typinglab.svg" width="100%"/>
-      </a>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="28"/> <a href="https://github.com/kantapit123/TypingLab">TypingLab</a></h3>
+      Improve your typing speed with real-time WPM feedback.
+      <br/><br/>
+      <a href="https://github.com/kantapit123/TypingLab"><img src="https://img.shields.io/github/stars/kantapit123/TypingLab?style=flat-square&color=a277ff&label=%E2%AD%90%20Stars"/></a>
+      <img src="https://img.shields.io/github/languages/top/kantapit123/TypingLab?style=flat-square&color=302b63"/>
+      <img src="https://img.shields.io/badge/WPM-real--time-24243e?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Gorilla.png" width="28"/> Kong Gateway Custom Plugin</h3>
