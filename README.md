@@ -1,6 +1,14 @@
-<!-- ============ HEADER ============ -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kantapit%20Phaengdee&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=a.k.a.%20Pitch%20%F0%9F%9A%80%20Software%20Engineer%20%40%20ODDS%20Team&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Kantapit%20Phaengdee&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=a.k.a.%20Pitch%20%E2%80%94%20Software%20Engineer%20%40%20ODDS%20Team&descAlignY=58&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="40"/>
 </p>
 
 <p align="center">
@@ -17,23 +25,45 @@
   <img src="https://komarev.com/ghpvc/?username=kantapit123&style=for-the-badge&color=a277ff&label=PROFILE+VIEWS"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34"/> About Me
 
-```ts
-const pitch = {
-  name:        "Kantapit Phaengdee",
-  alias:       "Pitch",
-  location:    "Bangkok, Thailand 🇹🇭",
-  currently:   "Software Engineer @ ODDS Team — fusion team building next-gen investment products",
-  previously:  "Co-Founder & CTO @ Thaibioscience Co., Ltd 🧬",
-  focus:       ["Fullstack", "DevSecOps", "Data Engineering", "IoT"],
-  writing:     "DevSecOps guides, tools & vulnerability research on Medium",
-  funFact:     "Fascinated by space 🛰️ — still waiting for my ticket to Mars",
-  motto:       "Build systems that solve real-world problems.",
-};
-```
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <br/>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="24"/>
+        &nbsp;<b>Software Engineer</b> @ <b>ODDS Team</b> 🇹🇭<br/>
+        <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fusion team building next-gen investment products</sub>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="24"/>
+        &nbsp;Ex <b>Co-Founder &amp; CTO</b> @ <a href="https://dna-center.thaibioscience.com/">Thaibioscience</a>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="24"/>
+        &nbsp;Fullstack · DevSecOps · Data Engineering · IoT
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="24"/>
+        &nbsp;Writing DevSecOps guides &amp; vuln research on <a href="https://medium.com/@kantapit9">Medium</a>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="24"/>
+        &nbsp;Space nerd — still waiting for my ticket to Mars
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="24"/>
+        &nbsp;<i>“Build systems that solve real-world problems.”</i>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary>🇹🇭 <b>ภาษาไทย</b> (คลิกเพื่อเปิด)</summary>
@@ -48,19 +78,19 @@ const pitch = {
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34"/> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kantapit123/TypingLab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kantapit123&repo=TypingLab&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+        <img src="./profile/pin-typinglab.svg" width="100%"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🦍 Kong Gateway Custom Plugin</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Gorilla.png" width="28"/> Kong Gateway Custom Plugin</h3>
       Example custom plugin for Kong Gateway — extend your API gateway your way.
       <br/><br/>
       <img src="https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white"/>
@@ -69,14 +99,14 @@ const pitch = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦷 Dental Booking System <sub>🔒 Private</sub></h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="28"/> Dental Booking System <sub>Private</sub></h3>
       Fullstack solution for clinic scheduling &amp; reporting.
       <br/><br/>
       <img src="https://img.shields.io/badge/Fullstack-302b63?style=flat-square"/>
       <img src="https://img.shields.io/badge/Healthcare-0f0c29?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Trivy Playground</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28"/> Trivy Playground</h3>
       Example DevSecOps pipeline using Trivy &amp; GitHub Actions.
       <br/><br/>
       <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white"/>
@@ -85,27 +115,27 @@ const pitch = {
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="34"/> Tech Arsenal
 
 <table>
   <tr>
-    <td align="center" width="160"><b>🌐 Web</b></td>
+    <td align="center" width="170"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="36"/><br/><b>Web</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=go,react,nodejs,js,ts,tailwind&theme=dark" /><br/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>📱 Mobile</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="36"/><br/><b>Mobile</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" /><br/>
       <sub>Flutter · React Native</sub>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ DevOps / DevSecOps</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="36"/><br/><b>DevOps / DevSecOps</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,jenkins,githubactions&theme=dark" /><br/>
       <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
@@ -115,7 +145,7 @@ const pitch = {
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🛢️ Data Engineering</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="36"/><br/><b>Data Engineering</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=aws,gcp,kafka&theme=dark" /><br/>
       <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
@@ -127,14 +157,14 @@ const pitch = {
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🧪 Testing</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="36"/><br/><b>Testing</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
       <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🧠 Competencies</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="36"/><br/><b>Competencies</b></td>
     <td>
       <img src="https://img.shields.io/badge/Developer-302b63?style=flat-square"/>
       <img src="https://img.shields.io/badge/Cybersecurity_Foundation-d63031?style=flat-square"/>
@@ -144,30 +174,20 @@ const pitch = {
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Galaxy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="34"/> GitHub Galaxy
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kantapit123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantapit123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img height="175" src="./profile/stats.svg" />
+  <img height="175" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kantapit123&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kantapit123&bg_color=0d1117&color=a277ff&line=70a5fd&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kantapit123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="34"/> Contribution Snake
 
 <p align="center">
   <picture>
@@ -177,13 +197,21 @@ const pitch = {
   </picture>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-  <i>“The universe is under no obligation to make sense to you — but your code should.”</i> 🌌
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=70A5FD&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!+%F0%9F%9A%80;The+universe+doesn't+have+to+make+sense+%E2%80%94+your+code+should+%F0%9F%8C%8C;Let's+build+something+awesome+together+%E2%9C%A8" />
 </p>
 
-<!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="30"/>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
